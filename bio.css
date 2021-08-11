@@ -1,0 +1,41 @@
+body{
+    background-image: url('img3.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.navbar {
+    background-color:cornsilk;
+    overflow: hidden;
+    text-align:center;
+    height:45px;
+    font-size:25px;
+    margin-bottom: 40px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  .navbar a {
+    float: center;
+    color: black;
+    padding: 15px 16px;
+    text-decoration: none;
+    font-size: 2
+      7px;
+      font-style: italic;
+  }
+  
+  .navbar a:hover {
+   background-color:rgba(0, 201, 252, 0.616);
+   border-top: violet;
+  }
+  .navbar a :active{
+    background-color: cornflowerblue;
+    border-bottom: black;
+  }
+  h1{
+      font-family: cursive;
+      color: azure;
+  }
+  h3{
+      color: beige;
+    text-shadow: black;
+  }
